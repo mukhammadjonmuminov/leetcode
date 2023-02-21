@@ -1,3 +1,5 @@
+# Medium
+
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
         if s is None and numRows <= 0:
